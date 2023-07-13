@@ -1,0 +1,4 @@
+csv_datas
+*.hwpx
+*.pdf
+__pycache__
